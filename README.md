@@ -1,8 +1,11 @@
 # Manage landing page
-[Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/manage-landing-page-SLXqC6P5)
-This page is implemented using HTML, Tailwind and Javascript.
+
+[Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/manage-landing-page-SLXqC6P5).
+
+This page is implemented with HTML, Tailwind and Javascript.
 
 ## About
+
 Users should be able to:
 - view the optimal layout for the site depending on their device's screen size [done]
 - see hover states for all interactive elements on the page [done]
