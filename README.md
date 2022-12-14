@@ -11,3 +11,10 @@ Users should be able to:
   - the email address is not formatted correctly [todo]
   
 ## Design
+
+### Desktop
+![Desktop design](/design/desktop-design.jpg)
+
+### Mobile
+![Mobile design](/design/mobile-design.jpg)
+![Mobile navigation](/design/mobile-navigation.jpg)
