@@ -12,9 +12,10 @@ Users should be able to:
   
 ## Design
 
-### Desktop
+### Desktop design
 ![Desktop design](/design/desktop-design.jpg)
 
-### Mobile
+### Mobile design
 ![Mobile design](/design/mobile-design.jpg)
+
 ![Mobile navigation](/design/mobile-navigation.jpg)
