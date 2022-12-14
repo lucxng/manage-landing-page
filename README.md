@@ -1,5 +1,6 @@
 # Manage landing page
 [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/manage-landing-page-SLXqC6P5)
+This page is implemented using HTML, Tailwind and Javascript.
 
 ## About
 Users should be able to:
