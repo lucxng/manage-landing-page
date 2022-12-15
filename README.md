@@ -2,7 +2,7 @@
 
 [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/manage-landing-page-SLXqC6P5).
 
-This page is implemented with HTML, Tailwind and Javascript.
+Built with HTML, TailwindCSS and Javascript.
 
 ## About
 
